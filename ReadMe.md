@@ -1,15 +1,32 @@
+## Sobre mim
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/edgar-rocha/) 
+- 🤔 Adquirindo conhecimento na área de Análise e Ciência de Dados.
+- 🎓 Sou Engenheiro Florestal formado na UFSCar e possuo Pós-Graduação em Gestão de Projetos e Engenharia de Segurança do Trabalho.
+- 💼 Trabalhando atualmente na área de Planejamento e Controle.
+- 🌱 Aprendendo mais sobre Python, R, SQL e Power BI.
 
-# 💻 Tech Stack:
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat-square&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=edgar1601&theme=dracula&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=edgar1601&theme=dracula&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=edgar1601&theme=dracula&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+## Minhas Skills
 
----
-[![](https://visitcount.itsvg.in/api?id=edgar1601&icon=0&color=0)](https://visitcount.itsvg.in)
+**Linguagens que estou me aprofundando:**
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+
+**Ferramentas de desenvolvimento**
+
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![RStudio](https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white)
+
+<br/>
+
+<a href="https://github.com/edgar1601" title="Perfil de Edgar">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edgar1601&theme=dracula&show_icons=true" />
+</a>
+
+## Onde me encontrar
+
+[![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/in/edgar-rocha/)
+&nbsp;
+[![GitHub](https://i.sstatic.net/tskMh.png) GitHub](https://github.com/edgar1601)
